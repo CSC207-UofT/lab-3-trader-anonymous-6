@@ -27,7 +27,7 @@ public class Horse2 implements Drivable, Domesticatable, Tradable {
 
     @Override
     public int getPrice() {
-        return 10;
+        return 12;
     }
 
     @Override
